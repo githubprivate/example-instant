@@ -1,0 +1,61 @@
+
+
+
+digraph principal_diagnosis {
+graph [
+overlap=true
+margin="2.5"
+  ];
+
+node [ fontname="simhei.ttf" ];
+edge [ fontname="simsun.ttc" ];
+
+
+
+"欧盟议会立法草案" [URL="http://eur-lex.europa.eu/collection/eu-law/pre-acts.html"];
+"欧盟条约" [URL="http://europa.eu/eu-law/decision-making/treaties/index_en.htm"];
+"欧盟监管、指令及其他法案" [URL="http://europa.eu/eu-law/decision-making/legal-acts/index_en.htm"];
+"欧盟立法概要（分类）" [URL="http://eur-lex.europa.eu/browse/summaries.html"];
+"人大立法修正案及草案" [URL="http://www.npc.gov.cn/npc/zt/node_1848.htm"];
+"人大决定、决议及日程" [URL="http://www.npc.gov.cn/npc/xinwen/node_12435.htm"];
+"常委会公报" [URL="http://search.npc.gov.cn:7000/was40/search?channelid=13334&templet=outline_cms_cwhgb.jsp"];
+"美国官方政府法律文件发布" [URL="http://www.gpo.gov/fdsys/"];
+"美国法庭网官方" [URL="http://www.uscourts.gov/Home.aspx"];
+"美国联邦司法统计网" [URL="http://www.uscourts.gov/Statistics.aspx"];
+"美国联邦司法年度报告" [URL="http://www.uscourts.gov/Statistics/JudicialBusiness/archive.aspx"];
+"英国上院裁决 House of Lords Judgments: archive " [URL="http://www.publications.parliament.uk/pa/ld/ldjudgmt.htm"];
+"英国公共一般法案UK Public General Acts" [URL="http://www.legislation.gov.uk/ukpga"];
+"海牙国际私法会议" [URL="http://www.hcch.net/index_en.php"];
+"美国有效条约" [URL="http://www.state.gov/s/l/treaty/tif/index.htm"];
+"UK Treaties" [URL="https://www.gov.uk/uk-treaties"];
+"欧洲联盟条约列表" [URL="http://conventions.coe.int/Treaty/Commun/ListeTraites.asp?CM=8&CL=ENG"];
+"纽约大学法学院国际条约索引" [URL="http://www.law.nyu.edu/library/research/foreign_intl/internationaltreaties/index.htm"];
+"美国国务院条约事务网站" [URL="http://www.state.gov/s/l/treaty/index.htm"];
+"美国国务院TIAS条约检索系统" [URL="http://www.state.gov/s/l/treaty/tias/index.htm"];
+"美国国会图书馆条约搜索系统" [URL="http://thomas.loc.gov/home/treaties/treaties.html"];
+"美国对外共同防御条约列表" [URL="http://www.state.gov/s/l/treaty/collectivedefense/index.htm"];
+"institute of advanced legal studies自1325年至今条约" [URL="http://193.62.18.232/dbtw-wpd/textbase/treatysearch.htm"];
+"美国法律资源索引" [URL="http://www.law.cornell.edu/lii/get_the_law"];
+"世界法律条文索引——德国" [URL="http://www.worldlii.org/catalog/2074.html"];
+"德国法律条文索引——英文版" [URL="http://www.gesetze-im-internet.de/Teilliste_translations.html"];
+"法国法律文件索引——官方英文版" [URL="http://www.legifrance.gouv.fr/Traductions/en-English"];
+"法国法律文件索引（具体法条）——官方翻译版" [URL="http://www.legifrance.gouv.fr/Traductions/en-English/Legifrance-translations"];
+"法国宪法委员会——官方判例英文版" [URL="http://www.conseil-constitutionnel.fr/conseil-constitutionnel/english/case-law/case-law.25743.html"];
+"法国法律指导Features - Germain's French Law Guide" [URL="http://www.llrx.com/features/frenchlaw.htm#legis_e"];
+"欧洲司法——各国法律法条索引" [URL="https://e-justice.europa.eu/content_member_state_case_law-13-ew-en.do?member=1"];
+"欧盟法律索引——条约" [URL="http://eur-lex.europa.eu/en/treaties/index.htm"];
+"欧盟理事会对外条约索引" [URL="http://www.consilium.europa.eu/policies/agreements/search-the-agreements-database?command=party&doclang=EN&lang=en"];
+"英国法律条文索引" [URL="http://www.legislation.gov.uk/browse/uk"];
+"HeinOnLine" [URL="http://heinonline.org/HOL/Welcome"];
+"美国法典 US CODE" [URL="http://uscode.house.gov/browse.xhtml"];
+"Electronic Code of Federal Regulations" [URL="http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&sid=635f26c4af3e2fe4327fd25ef4cb5638&tpl=/ecfrbrowse/Title12/12cfr204_main_02.tpl"];
+"关于联邦决策进程的说明" [URL="http://www.uscourts.gov/RulesAndPolicies/rules/about-rulemaking/how-rulemaking-process-works.aspx"];
+"美国统一法律委员会" [URL="http://uniformlaws.org/"];
+"刑事司法统计资料--全美涉及犯罪的统计资料" [URL="http://www.albany.edu/sourcebook/toc.html#section3"];
+"欧洲犯罪统计资料" [URL="http://www.europeansourcebook.org/index.html"];
+"欧洲统计局犯罪数据" [URL="http://ec.europa.eu/eurostat/statistics-explained/index.php/Crime_statistics"];
+
+
+
+}
+
